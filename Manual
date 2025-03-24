@@ -1,0 +1,16 @@
+Explicação das Ações no Código:
+Pressionamento de teclas: O código simula várias teclas de atalho, como 1, 2, Q, E, R, etc. Estas teclas podem representar habilidades no jogo.
+
+Movimento do personagem: Simula as teclas de movimento W, A, D para mover o personagem no jogo.
+
+Interações: Simula o pressionamento da tecla F para interagir com objetos e F1 para uma habilidade ou ação específica.
+
+Cliques do mouse: Simula cliques do mouse esquerdo e direito para interações no jogo.
+
+Duplo Clique: A função doubleClick realiza dois cliques rápidos do mouse esquerdo, simulando uma interação.
+
+Rolagem do Mouse: Simula a rolagem do mouse para cima e para baixo, útil para rolar entre habilidades ou itens no jogo.
+
+Tecla Tab: Alterna entre os alvos ou habilidades usando a tecla Tab.
+
+Feedback visual: O LED (conectado ao pino 13) pisca após cada ação do macro para indicar que foi executada.
